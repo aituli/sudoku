@@ -38,7 +38,7 @@ A clean, interactive 9×9 Sudoku puzzle game built for the browser. Built with *
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/aituli/sudoku.git
 cd shudu
 
 # Install dependencies

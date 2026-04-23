@@ -24,3 +24,9 @@ yarn-error.log*
 
 # Playwright CLI
 .playwright-cli/
+
+# WorkBuddy
+.workbuddy/
+
+# Cursor
+.cursor/
